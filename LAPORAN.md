@@ -122,6 +122,13 @@ No issues found! (ran in 5.3s)
 
 Keempat tangkapan layar aplikasi di folder `bukti/` diambil pada dua tugas yang sama dengan ringkasan `1 dari 2 selesai`, ditambah satu tangkapan layar hasil terminal:
 
-- `bukti/mvc1.png` dan `bukti/mvc2.png` untuk kondisi filter mati dan aktif pada MVC.
-- `bukti/mvvm1.png` dan `bukti/mvvm2.png` untuk kondisi yang sama pada MVVM.
-- `bukti/analyze.png` untuk hasil `flutter test` dan `flutter analyze` di terminal.
+- [bukti/mvc1.png](bukti/mvc1.png) dan [bukti/mvc2.png](bukti/mvc2.png) untuk kondisi filter mati dan aktif pada MVC.
+- [bukti/mvvm1.png](bukti/mvvm1.png) dan [bukti/mvvm2.png](bukti/mvvm2.png) untuk kondisi yang sama pada MVVM.
+- [bukti/analyze.png](bukti/analyze.png) untuk hasil `flutter test` dan `flutter analyze` di terminal.
+
+| Filter mati | Filter aktif |
+| :---: | :---: |
+| [![MVC filter mati](bukti/mvc1.png)](bukti/mvc1.png) | [![MVC filter aktif](bukti/mvc2.png)](bukti/mvc2.png) |
+| [![MVVM filter mati](bukti/mvvm1.png)](bukti/mvvm1.png) | [![MVVM filter aktif](bukti/mvvm2.png)](bukti/mvvm2.png) |
+
+[![Hasil terminal flutter test dan flutter analyze](bukti/analyze.png)](bukti/analyze.png)
