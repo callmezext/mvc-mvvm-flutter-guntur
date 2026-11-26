@@ -120,7 +120,8 @@ No issues found! (ran in 5.3s)
 
 ## Tangkapan layar
 
-Keempat gambar di folder `bukti/` diambil pada dua tugas yang sama dengan ringkasan `1 dari 2 selesai`:
+Keempat tangkapan layar aplikasi di folder `bukti/` diambil pada dua tugas yang sama dengan ringkasan `1 dari 2 selesai`, ditambah satu tangkapan layar hasil terminal:
 
 - `bukti/mvc1.png` dan `bukti/mvc2.png` untuk kondisi filter mati dan aktif pada MVC.
 - `bukti/mvvm1.png` dan `bukti/mvvm2.png` untuk kondisi yang sama pada MVVM.
+- `bukti/analyze.png` untuk hasil `flutter test` dan `flutter analyze` di terminal.
